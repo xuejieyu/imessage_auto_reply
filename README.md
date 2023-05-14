@@ -16,5 +16,6 @@
 
   `OPENAI_API_KEY='your key'  TARGET_PHONE_NUM='your target phone number' jupyter notebook imessage_auto_reply.ipynb`
   
- The phone number should be in this format:  '+16503204567' 
- You can get your openai api key here (it's free): https://platform.openai.com/account/api-keys
+ - The phone number should be in this format:  '+16503204567' 
+ 
+ - You can get your openai api key here (it's free): https://platform.openai.com/account/api-keys
